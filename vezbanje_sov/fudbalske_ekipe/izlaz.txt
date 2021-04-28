@@ -1,0 +1,7 @@
+Zvezda 	 32 	 10
+Drugarstvo 	 25 	  5
+Backa 	 21 	  1
+Partzizan 	 20 	  3
+Obelisk 	 20 	  5
+Poslednji 	 17 	  7
+Pretposlednji 	 14 	  3
