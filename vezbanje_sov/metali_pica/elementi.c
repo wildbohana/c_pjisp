@@ -1,3 +1,5 @@
+//poziv: ./a.out metal uzorak_vino.txt analiza.txt
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
