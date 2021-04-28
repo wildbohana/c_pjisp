@@ -1,0 +1,6 @@
+kapricoza glavno 150 500
+banana dezert 100 200
+jabuka dezert 120 50
+supa predjelo 200 10
+peceno_prase glavno 200 600
+jaje_na_oko predjelo 200 300
