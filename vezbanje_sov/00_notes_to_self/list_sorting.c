@@ -1,4 +1,4 @@
-tip - typedef struct pa ime posle toga
+// definisanje tipa - typedef struct pa ime posle toga
 
 
 -na pocetak:
