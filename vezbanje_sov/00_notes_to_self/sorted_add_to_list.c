@@ -30,4 +30,5 @@ void dodaj_cvor(PIZZA **glava, PIZZA *novi){
             }
         }
 }
+
 //dodaj na kraj
