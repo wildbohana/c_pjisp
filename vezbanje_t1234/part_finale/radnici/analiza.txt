@@ -1,0 +1,3 @@
+Tim Berners 77000
+Linus Torvalds 81000
+Dennis Ritchie 44000
