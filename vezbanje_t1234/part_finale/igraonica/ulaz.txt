@@ -1,0 +1,12 @@
+jovan jovanovic 1 20 2 40
+milica knezevic 3 40 5 20
+dusan mihajlovic 5 12 6 43
+bole kometa 1 12 3 45
+jakov komca 2 10 4 39
+
+uneses sa terminala ovo
+
+
+zaokruzis sate na cele
+igraonica radi od 10 do 22
+ne sme sat 1 biti veci od sat 2
