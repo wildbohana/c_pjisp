@@ -119,9 +119,6 @@ int main(int brArg, char *args[]){
         
         fclose(in);
          
-//pogledaj da li je dobar moj deo koda, ovo za prosek
-
-
     return 0;
 
 }
