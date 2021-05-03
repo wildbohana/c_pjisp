@@ -1,4 +1,5 @@
 //poziv: ./a.out metal uzorak_vino.txt analiza.txt
+// opcije su ti metal i nemetal (nema ništa drugo ni da bude)
 
 #include <stdlib.h>
 #include <stdio.h>
